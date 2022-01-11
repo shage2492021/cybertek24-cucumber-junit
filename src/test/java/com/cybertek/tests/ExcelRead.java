@@ -10,6 +10,7 @@ public class ExcelRead {
 
     @Test
     public void readingFromExcel() throws IOException {
+        // workbook -> worksheet -> row -> cell
 
         // open excel workbook class
         // pass filename in the constructor
